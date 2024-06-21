@@ -13,7 +13,7 @@ InLogic é um espaço onde você encontrará diversos projetos de software como 
 ## 🚀 Projetos Atuais
 
 ### 1. Smart storage
-📦 O projeto Smart Storage tem como objetivo proporcionar um gerenciamento de inventário fácil, simples e rápido.
+Testlab
 
 ```Em desenvolvimetno```
 
