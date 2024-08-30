@@ -12,9 +12,6 @@ InLogic é um espaço onde você encontrará diversos projetos de software como 
 
 ## 🚀 Projetos Atuais
 
-### 1. Smart storage
-Testlab
-
 ```Em desenvolvimetno```
 
 ## 🤝 Contribuição
